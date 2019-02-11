@@ -1,1 +1,1 @@
-# SociallNetworkApp
+# SocialNetworkApp
